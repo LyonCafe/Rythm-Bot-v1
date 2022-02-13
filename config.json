@@ -1,10 +1,10 @@
 {
   "default_prefix" : "-",
- "owner" :  ["811213525321383937"],
- "DB": "mongodb+srv://yt:123test@cluster0.uvjch.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-"log":  "940601977233100880", 
-"spotifyID" : "52ad218fe09e463f8cb9e110902946ef",
-"spotifySecret": "8cba16cad2e243cda21c3fcf4538e5f8",
+ "owner" :  ["],
+ "DB": "",
+"log":  "", 
+"spotifyID" : "",
+"spotifySecret": "",
 "nodes":[
 
       {
